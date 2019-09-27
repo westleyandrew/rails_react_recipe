@@ -15,5 +15,10 @@
   },
   "devDependencies": {
     "webpack-dev-server": "^3.8.1"
-  }
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:westleyandrew/rails_react_recipe.git",
+  "author": "Westley Andrew <westleyandrew@hotmail.com>",
+  "license": "MIT"
 }
